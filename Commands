@@ -1,0 +1,17 @@
+GitHub:
+- exit() - Quits command line interface
+- Indentation indicates a block of code, symbolises a space
+- pwd = print working directory (shows where you are)
+- ls = list
+-  ls -ll = list long
+- cd 'name of file' = to change directory
+- touch 'name of file' = Create a file
+- open 'name of file' = open file
+- rm 'name of file' = remove file
+- rm -rf 'name of folder' = remove folder
+- mkdir 'name of file' = make folder
+- rmdir = remove folder
+- ls -a = List all
+- cd ~ = goes home
+- cd / = go to root folder
+- cd .. = go back folder
